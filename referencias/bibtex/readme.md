@@ -1,7 +1,7 @@
 
 # Atividade 03 — Levantamento Bibliográfico
 
-## 🔬 1. Fontes Primárias da Área
+🔬 1. Fontes Primárias da Área
 
 ALVES FILHO, Gilberto; NASCIMENTO, Anderson Silva do. Mineração de dados para identificação de clusters: um estudo na área de tecnologia da informação. **Escola de Ciência e Tecnologia - Universidade do Grande Rio Professor José de Souza Herdy (Unigranrio)**, Duque de Caxias, p. 1-8, 2020.
 
@@ -12,7 +12,6 @@ SILVA, Eduardo Moura da; MUTZ, Filipe Wall; RUY, Fabiano Borges. Uso de Ontologi
 SOARES, Allexandre Sampaio Santos; MATOS, Pablo Freire. Uma Análise Comparativa entre Sistemas Gerenciadores de Bancos de Dados NoSQL no contexto de Internet das Coisas. *In*: SIMPÓSIO BRASILEIRO DE BANCO DE DADOS (SBBD), 32., 2017, Uberlândia. **Anais eletrônicos [...]**. Uberlândia: SBC, 2017. p. 1-10.
 
 SOUZA, Larissa Vital de; BOER, Marcelo T. **Estudo comparativo entre os modelos de banco de dados NoSQL e SQL**. 2023. 17 f. Trabalho de Graduação (Tecnólogo em Sistemas para Internet) – Faculdade de Tecnologia Professor José Camargo (Fatec Jales), Jales, 2023.
-
 
 
 🔁 2. Trabalhos Relacionados 
@@ -26,3 +25,16 @@ GARCIA, Vinícius Salles; SOTTO, Eder Carlos Salazar. Comparativo entre os model
 GUERRA, Cauan José da Silva. **Avaliação de desempenho entre banco de dados NoSQL e modelo relacional**. 2021. Monografia (Bacharelado em Sistemas de Informação) – Universidade Estadual de Goiás (UEG), Itaberaí, 2021.
 
 PIRES, Luis Fernando. **Banco de dados para IoT**: uma abordagem analítica sobre desempenho e eficiência. Campo Limpo Paulista: Centro Universitário Campo Limpo Paulista (UNIFACCAMP), 2025.
+
+
+🔗 3. Interseção dentro da Computação
+
+ALMEIDA, Thiago Leite de et al. IOT para monitoramento de equipamentos industriais e armazenamento em banco de dados relacional. **Revista Brasileira de Mecatrônica**, São Caetano do Sul, v. 4, n. 2, p. 16-34, out./dez. 2021.
+
+CARR, Caroline Nunes; ARAÚJO, Antonia do Espírito Santo Teixeira; SEIXAS, Luane do Socorro Ferreira de. Modelagem de dados para a internet das coisas (IOT): desafios e soluções ao modelar dados gerados por dispositivos conectados. **Revista Observatorio de la Economía Latinoamericana**, Curitiba, v. 21, n. 12, p. 23858-23874, 2023.
+
+NERIS, Airton Martins. **Avaliação de plataformas de armazenamento em nuvem para dados de sensores**. Orientador: Glauco Estácio Gonçalves. 2019. Relatório Final (Plano de Trabalho PIC/CNPq) – Universidade Federal Rural de Pernambuco (UFRPE), Recife, 2019.
+
+OTTOLINI, Dener et al. Desempenho e escalabilidade de plataformas livres de IoT. **Universidade Federal do ABC**, Santo André, 2020.
+
+PIRES, Luis Fernando. **Banco de dados para IoT**: uma abordagem analítica sobre desempenho e eficiência. 2025. Artigo (Mestrado Profissional em Ciências da Computação) – Centro Universitário Campo Limpo Paulista (UNIFACCAMP), Campo Limpo Paulista, 2025.
