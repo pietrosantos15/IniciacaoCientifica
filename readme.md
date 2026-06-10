@@ -44,7 +44,8 @@ A arquitetura é estruturada de forma linear e modular:
 ### 🖼️ Diagrama
 
 
-<img width="1139" height="617" alt="diagramaa" src="https://github.com/user-attachments/assets/a2ea2282-86ae-4535-88c4-f18110bd0cc2" />
+<img width="1139" height="617" alt="DiagramaFinal" src="https://github.com/user-attachments/assets/cd8a2638-e7f8-4baa-afe4-2501b23621bc" />
+
 
 ---
 
