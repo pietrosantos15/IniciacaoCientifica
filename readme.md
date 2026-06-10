@@ -42,10 +42,9 @@ A arquitetura é estruturada de forma linear e modular:
 ---
 
 ### 🖼️ Diagramas ou Imagens
-*(O diagrama arquitetural detalhado do fluxo está disponível no arquivo `arquitetura/diagrama.png`)*
 
-<img width="393" height="462" alt="Screenshot 2026-06-10 200907" src="https://github.com/user-attachments/assets/8603154a-7d3b-4cc6-bee2-6c8a1d857aa7" />
 
+<img width="1139" height="617" alt="diagramaa" src="https://github.com/user-attachments/assets/a2ea2282-86ae-4535-88c4-f18110bd0cc2" />
 
 ---
 
