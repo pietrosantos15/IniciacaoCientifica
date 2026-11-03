@@ -44,7 +44,7 @@ Comparação entre o Amazon RDS (PostgreSQL) e o Amazon DynamoDB no armazenament
 ## Pendências
 
 - [ ] Confirmar modalidade e título com os orientadores (Deivison Shindi Takatu e Glauco Todesco).
-- [ ] Preencher ORCID do autor e CPF de todos os autores no arquivo local. **Não enviar o arquivo com CPF para este repositório, que é público.**
+- [ ] Informar ORCID e CPF dos autores apenas nos metadados da plataforma de submissão. O manuscrito deste repositório (público) não contém CPF nem o ORCID do autor.
 - [ ] Conferir o template oficial do REX.
 - [ ] Submeter até **10/11/2026**.
 - [ ] Registrar abaixo a data e o código de confirmação.
