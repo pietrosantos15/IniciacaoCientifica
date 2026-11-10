@@ -41,14 +41,6 @@ Avaliação de desempenho de bancos de dados SQL e NoSQL para armazenamento de d
 
 Comparação entre o Amazon RDS (PostgreSQL) e o Amazon DynamoDB no armazenamento de dados de sensores IoT, com os dois bancos recebendo a mesma carga, em paralelo, no mesmo ambiente AWS, com ingestão via AWS IoT Core. O trabalho apresenta a arquitetura e o estágio atual. Os resultados de desempenho ainda não foram coletados.
 
-## Pendências
-
-- [ ] Confirmar modalidade e título com os orientadores (Deivison Shindi Takatu e Glauco Todesco).
-- [ ] Informar ORCID e CPF dos autores apenas nos metadados da plataforma de submissão. O manuscrito deste repositório (público) não contém CPF nem o ORCID do autor.
-- [ ] Conferir o template oficial do REX.
-- [ ] Submeter até **10/11/2026**.
-- [ ] Registrar abaixo a data e o código de confirmação.
-
 ## Registro da submissão
 
 - Data da submissão: pendente
