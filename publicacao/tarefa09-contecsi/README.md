@@ -4,10 +4,6 @@
 **Diretrizes:** https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/about/submissions#authorGuidelines
 **Sistema de submissão:** https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/author/submit
 
-## Situação
-
-**Em elaboração.** O manuscrito está completo no template. Faltam os dados dos autores, a revisão dos orientadores e a submissão.
-
 ## Modalidade selecionada
 
 **REX — Resumo Expandido (Graduação).**
